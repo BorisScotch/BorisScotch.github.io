@@ -7,7 +7,15 @@ body {
     margin:auto;
 }
 nav {
-    margin:auto;
+   margin: 0 auto;
+    align-content: center;
+    padding-left: 50px;
+    clear: both;
+    width: 100%;
+    display: block;
+    background-color: black;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
